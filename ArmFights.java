@@ -54,8 +54,6 @@ public class ArmFights {
 			System.out.println(max);
 		}
 		
-		ABC abc = new ABC();
-		
 	}
 
 }
